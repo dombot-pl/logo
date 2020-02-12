@@ -23,7 +23,8 @@ Icon Designed by
 <a target="_blank" href="https://thenounproject.com/arsenty">Arsenty</a>
 
 # Font 2
-https://dombot-pl.github.io/logo/Rounded-Elegance/
+https://dombot-pl.github.io/logo/rounded-elegance/index.html
+
 Font in use Rounded_Elegance designed by Genumano and licensed under 100% Free. Icon Designed by Arsenty
 
 ## url
