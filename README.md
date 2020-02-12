@@ -1,6 +1,10 @@
 # logo
 logo
 
+# Color
++ #FF9302
++ #000000
++ #FFFFFF
 
 # Font
 Font in use Signika-Regular designed by Anna Giedryś and licensed under Open Font License. Icon Designed by Arsenty
