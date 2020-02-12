@@ -6,14 +6,14 @@ logo
 + #000000
 + #FFFFFF
 
-# Font
+# Font 1
 Font in use Signika-Regular designed by Anna Giedryś and licensed under Open Font License. Icon Designed by Arsenty
 + Light
 + Regular
 + Semi-Bold
 + Bold
 
-
+## url
 Font in use <a target="_blank" href="https://fonts.google.com/specimen/Signika">Signika-Regular</a> designed by
 <a target="_blank" href="http://ancymonic.com/">Anna Giedryś</a>
 and licensed under
@@ -21,7 +21,20 @@ and licensed under
 Icon Designed by
 <a target="_blank" href="https://thenounproject.com/arsenty">Arsenty</a>
 
+# Font 2
 
+Font in use Rounded_Elegance designed by Genumano and licensed under 100% Free. Icon Designed by Arsenty
+
+## url
+https://www.dafont.com/rounded-elegance.font
+
+Font in use <a target="_blank" href="https://www.dafont.com/rounded-elegance.font">Rounded_Elegance</a> designed by
+<a target="_blank" href="mailto:dcc700@gmail.com">Genumano</a>
+and licensed under
+<a target="_blank" href="https://www.dafont.com/faq.php#copyright">100% Free.</a>
+Icon Designed by
+<a target="_blank" href="https://thenounproject.com/arsenty">Arsenty</a><
+          
 ### css 
     p {
        font-family: 'Signika';
